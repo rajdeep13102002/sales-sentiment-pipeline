@@ -1,0 +1,24 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "high",
+  "key_topics": [
+    "wardrobe revamp",
+    "ModaMart clothing",
+    "sizing guide",
+    "return policy",
+    "virtual fitting room",
+    "ModaMart Rewards program",
+    "pricing and discounts"
+  ],
+  "objections_raised": [
+    "bad past online shopping experiences",
+    "concerns about clothing fit accuracy",
+    "hassle with returns",
+    "quality not matching advertisements",
+    "skepticism about sizing charts",
+    "pricing concerns"
+  ],
+  "outcome": "likely to purchase",
+  "summary": "The customer initially expressed hesitation about online shopping due to past bad experiences with fit and returns. The sales rep successfully addressed these concerns by explaining ModaMart's sizing guide, virtual fitting room, hassle-free return policy, and offering a 20% new customer discount. The customer became interested and agreed to check out the website and sign up for the rewards program.",
+  "source_file": "modamart__3_transcript.txt"
+}

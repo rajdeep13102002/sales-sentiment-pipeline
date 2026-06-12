@@ -1,0 +1,22 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "high",
+  "key_topics": [
+    "winter jackets",
+    "insulated jackets",
+    "down insulation",
+    "synthetic insulation",
+    "NordicEdge jacket",
+    "sizing",
+    "shipping options"
+  ],
+  "objections_raised": [
+    "uncertainty about jacket warmth",
+    "concerns about down insulation performance in wet weather",
+    "sizing issues mentioned in reviews",
+    "need for quick delivery"
+  ],
+  "outcome": "likely to purchase",
+  "summary": "John contacted ModaMart seeking help choosing a winter jacket and received helpful guidance from Sarah about insulation types and sizing. After addressing his concerns about fit and delivery timing, John decided to purchase the NordicEdge Synthetic Insulated Jacket in large with express shipping.",
+  "source_file": "modamart__1_transcript.txt"
+}

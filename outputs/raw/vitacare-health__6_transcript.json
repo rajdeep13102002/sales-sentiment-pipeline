@@ -1,0 +1,20 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "medium",
+  "key_topics": [
+    "home healthcare services",
+    "caregiver reliability",
+    "pricing and affordability",
+    "insurance claims",
+    "flexible plans"
+  ],
+  "objections_raised": [
+    "high cost concerns",
+    "budget constraints",
+    "worry about hidden costs",
+    "concern about long-term commitments"
+  ],
+  "outcome": "needs follow-up",
+  "summary": "The customer is seeking reliable home healthcare services for their elderly mother and expressed concerns about caregiver reliability and costs. The sales rep addressed these concerns by highlighting VitaCare's training programs, transparent pricing, and flexible plans. A follow-up meeting was scheduled for Thursday at 10 AM to discuss options in more detail.",
+  "source_file": "vitacare-health__6_transcript.txt"
+}

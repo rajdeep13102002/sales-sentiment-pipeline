@@ -1,0 +1,18 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "medium",
+  "key_topics": [
+    "Nexiv Solutions integrated software suite",
+    "data consolidation",
+    "unified dashboard",
+    "onboarding and training support"
+  ],
+  "objections_raised": [
+    "concerns about system transition difficulty and downtime",
+    "learning curve for new software",
+    "budget constraints and cost concerns"
+  ],
+  "outcome": "demo scheduled",
+  "summary": "Jamie expressed interest in Nexiv Solutions' integrated software to address data consolidation challenges, spending 10+ hours weekly on manual reconciliation. Despite concerns about transition difficulties and budget, Jamie agreed to a demo scheduled for Thursday afternoon after Alex addressed objections with onboarding support and scalable pricing options.",
+  "source_file": "nexiv-solutions__1_transcript.txt"
+}

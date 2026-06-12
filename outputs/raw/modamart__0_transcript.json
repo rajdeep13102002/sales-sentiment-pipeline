@@ -1,0 +1,19 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "high",
+  "key_topics": [
+    "winter jackets",
+    "product quality",
+    "pricing",
+    "sizing",
+    "return policy"
+  ],
+  "objections_raised": [
+    "uncertain about quality and price value",
+    "skeptical about online reviews",
+    "concerns about sizing and fit when ordering online"
+  ],
+  "outcome": "likely to purchase",
+  "summary": "The customer showed strong interest in ModaMart's winter jackets but had concerns about quality, pricing, and sizing. The sales rep effectively addressed these concerns by offering testimonials, explaining the return policy, providing sizing guidance, and offering a 10% discount, leaving the customer feeling much more comfortable with making a purchase.",
+  "source_file": "modamart__0_transcript.txt"
+}

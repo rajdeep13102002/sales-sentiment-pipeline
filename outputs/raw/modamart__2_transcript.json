@@ -1,0 +1,20 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "medium",
+  "key_topics": [
+    "fall collection",
+    "sizing",
+    "returns policy",
+    "product quality",
+    "customer reviews",
+    "discount promotion"
+  ],
+  "objections_raised": [
+    "concerns about sizing accuracy",
+    "hassle of returning items",
+    "concerns about product quality based on past online shopping experiences"
+  ],
+  "outcome": "likely to purchase",
+  "summary": "Customer showed interest in ModaMart's fall collection but had concerns about sizing, returns, and quality. Sales rep addressed each concern by explaining sizing charts, free returns policy, and customer reviews, then offered a 15% first-time customer discount which the customer accepted.",
+  "source_file": "modamart__2_transcript.txt"
+}

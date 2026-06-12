@@ -1,0 +1,20 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "high",
+  "key_topics": [
+    "winter collection",
+    "jackets",
+    "Everest jacket",
+    "Alpine jacket",
+    "sizing",
+    "return policy"
+  ],
+  "objections_raised": [
+    "concern about warmth based on previous purchase",
+    "concern about fit for tall sizes",
+    "worry about return process if jacket doesn't fit"
+  ],
+  "outcome": "purchase completed",
+  "summary": "Customer called inquiring about winter jackets and was looking for a versatile, warm option that would fit their tall frame. Sales rep successfully addressed all concerns about warmth, sizing, and returns, leading to the customer purchasing the Everest jacket in large tall size.",
+  "source_file": "modamart__8_transcript.txt"
+}

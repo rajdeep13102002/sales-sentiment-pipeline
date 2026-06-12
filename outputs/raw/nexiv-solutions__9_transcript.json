@@ -1,0 +1,18 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "medium",
+  "key_topics": [
+    "Nexiv Solutions comprehensive suite",
+    "system integration",
+    "customer relationship management",
+    "inventory tracking",
+    "implementation and transition planning"
+  ],
+  "objections_raised": [
+    "concern about downtime during transition",
+    "budget constraints and cost concerns"
+  ],
+  "outcome": "demo scheduled for follow-up",
+  "summary": "The customer expressed interest in Nexiv Solutions to address their current integration problems between CRM and inventory systems. While they raised concerns about implementation downtime and budget constraints, the sales rep addressed these objections and successfully scheduled a demo for next week.",
+  "source_file": "nexiv-solutions__9_transcript.txt"
+}

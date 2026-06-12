@@ -1,0 +1,20 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "high",
+  "key_topics": [
+    "IT infrastructure",
+    "data storage",
+    "data security",
+    "system downtime",
+    "integrated solutions",
+    "unified platform"
+  ],
+  "objections_raised": [
+    "transition process concerns",
+    "costs associated with switching",
+    "team not tech-savvy"
+  ],
+  "outcome": "demo scheduled - likely to purchase",
+  "summary": "Sarah expressed significant interest in Nexiv Solutions' integrated IT platform to address her company's data security and downtime issues. Despite concerns about transition costs and ease of use, she agreed to a demo meeting and requested a cost-benefit analysis. The call ended with a scheduled Wednesday demo, indicating strong purchase potential.",
+  "source_file": "nexiv-solutions__7_transcript.txt"
+}

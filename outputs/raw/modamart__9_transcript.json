@@ -1,0 +1,19 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "medium",
+  "key_topics": [
+    "dress return",
+    "color discrepancy",
+    "sizing issues",
+    "return policy",
+    "exchange policy"
+  ],
+  "objections_raised": [
+    "dress color different from online display",
+    "dress doesn't fit despite using sizing guide",
+    "concern about return shipping costs"
+  ],
+  "outcome": "return processed, potential future purchase",
+  "summary": "Customer called about issues with a dress order including wrong color and poor fit, and the sales rep efficiently processed a return with free return shipping. The customer showed continued interest by asking about exchange policies for a potential future purchase.",
+  "source_file": "modamart__9_transcript.txt"
+}

@@ -1,0 +1,21 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "high",
+  "key_topics": [
+    "VitaCare Health mobile app",
+    "medication reminders",
+    "appointment scheduling",
+    "remote patient monitoring",
+    "personalized care plans",
+    "medical records platform",
+    "free trial",
+    "training session"
+  ],
+  "objections_raised": [
+    "concerns about learning curve and app adoption",
+    "tight budget constraints"
+  ],
+  "outcome": "likely to purchase",
+  "summary": "Customer expressed strong interest in VitaCare Health's mobile app solution for managing medications and appointments. Despite initial concerns about usability and cost, she agreed to a free trial and scheduled a training session for Thursday afternoon.",
+  "source_file": "vitacare-health__5_transcript.txt"
+}

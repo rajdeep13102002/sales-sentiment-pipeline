@@ -1,0 +1,21 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "medium",
+  "key_topics": [
+    "healthcare management system",
+    "patient data management",
+    "regulatory compliance",
+    "data entry automation",
+    "system implementation",
+    "staff training",
+    "pricing plans"
+  ],
+  "objections_raised": [
+    "concerns about system transition and potential downtime",
+    "past bad experiences with complicated training",
+    "budget constraints and cost concerns"
+  ],
+  "outcome": "needs follow-up",
+  "summary": "The customer expressed interest in VitaCare Health's healthcare management solution to address their outdated system and compliance issues. While they had concerns about transition costs and complexity, the sales rep successfully addressed these objections and scheduled a follow-up meeting with information sharing. The call ended positively with a concrete next step planned for the following Tuesday.",
+  "source_file": "vitacare-health__8_transcript.txt"
+}

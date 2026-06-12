@@ -1,0 +1,18 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "high",
+  "key_topics": [
+    "IT infrastructure",
+    "server upgrades",
+    "cloud services integration",
+    "hardware modernization",
+    "business scalability solutions"
+  ],
+  "objections_raised": [
+    "concerns about cost of upgrade",
+    "potential downtime during transition"
+  ],
+  "outcome": "likely to purchase",
+  "summary": "The customer is experiencing frequent IT downtime due to outdated infrastructure that can't handle their business growth. The sales rep successfully addressed their cost and downtime concerns while positioning integrated IT solutions as the remedy. A consultation was scheduled for next Tuesday afternoon, indicating strong purchase intent.",
+  "source_file": "nexiv-solutions__4_transcript.txt"
+}

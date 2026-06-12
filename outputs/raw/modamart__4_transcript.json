@@ -1,0 +1,20 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "medium",
+  "key_topics": [
+    "winter jackets",
+    "Model X jacket",
+    "pricing",
+    "financing options",
+    "sizing",
+    "warranty"
+  ],
+  "objections_raised": [
+    "price concerns",
+    "previous bad experience with jacket durability",
+    "sizing uncertainty"
+  ],
+  "outcome": "needs follow-up",
+  "summary": "Customer called inquiring about the Model X winter jacket but had concerns about price and quality based on a previous bad experience. The sales rep addressed objections by explaining product features, warranty, financing options, and return policy. Customer ended the call needing time to consider the purchase and review sizing information.",
+  "source_file": "modamart__4_transcript.txt"
+}

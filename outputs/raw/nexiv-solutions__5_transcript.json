@@ -1,0 +1,22 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "high",
+  "key_topics": [
+    "Nexiv Solutions platform",
+    "data management system",
+    "software integration",
+    "scalability",
+    "cost-effectiveness",
+    "demo",
+    "trial period",
+    "customer support"
+  ],
+  "objections_raised": [
+    "concerns about expensive solutions that don't solve specific problems",
+    "skepticism about demos not delivering in practice",
+    "worry about support during trial period"
+  ],
+  "outcome": "likely to purchase",
+  "summary": "The customer expressed frustration with their current data management system's integration issues and downtime problems. The sales rep successfully addressed the customer's budget concerns and skepticism about demos by offering a customized demo, trial period, and 24/7 support. The call ended with the customer agreeing to schedule a demo, indicating strong purchase intent.",
+  "source_file": "nexiv-solutions__5_transcript.txt"
+}

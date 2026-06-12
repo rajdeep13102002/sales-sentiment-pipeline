@@ -1,0 +1,21 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "high",
+  "key_topics": [
+    "fall clothing",
+    "sweaters",
+    "blouses",
+    "jeans",
+    "sizing",
+    "returns policy",
+    "product quality"
+  ],
+  "objections_raised": [
+    "confusion with online sizing",
+    "concerns about product quality matching descriptions",
+    "worries about return hassles due to bad past experiences"
+  ],
+  "outcome": "likely to purchase",
+  "summary": "The customer called seeking fall clothing but had concerns about online shopping, particularly sizing and returns. The sales rep successfully addressed all objections by explaining ModaMart's size guides, flexible return policy, and quality assurance measures. The customer expressed satisfaction and indicated they would proceed with shopping on the website.",
+  "source_file": "modamart__5_transcript.txt"
+}

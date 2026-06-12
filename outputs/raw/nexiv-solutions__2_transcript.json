@@ -1,0 +1,18 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "high",
+  "key_topics": [
+    "data management",
+    "cloud-based infrastructure",
+    "system integration",
+    "migration process",
+    "pricing and budget"
+  ],
+  "objections_raised": [
+    "concerns about downtime during transition",
+    "budget constraints"
+  ],
+  "outcome": "consultation scheduled",
+  "summary": "The customer expressed significant pain points with their current in-house data management system, including performance issues and integration problems causing project delays. The sales rep successfully addressed concerns about transition downtime and budget constraints, leading to a scheduled consultation for next Tuesday.",
+  "source_file": "nexiv-solutions__2_transcript.txt"
+}

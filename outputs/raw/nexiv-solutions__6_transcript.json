@@ -1,0 +1,20 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "medium",
+  "key_topics": [
+    "project management software",
+    "workflow management",
+    "reporting features",
+    "software migration",
+    "pricing models",
+    "onboarding and training"
+  ],
+  "objections_raised": [
+    "current software investment",
+    "migration complexity",
+    "potential downtime during transition"
+  ],
+  "outcome": "demo scheduled for follow-up",
+  "summary": "Alex, a project management team leader at TechWave, discussed challenges with their current project management software including poor usability and inadequate reporting. Despite concerns about migration costs and downtime, Alex showed interest in Nexiv Solutions and agreed to a demo scheduled for Tuesday at 10 AM.",
+  "source_file": "nexiv-solutions__6_transcript.txt"
+}

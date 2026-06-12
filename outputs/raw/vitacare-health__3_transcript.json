@@ -1,0 +1,21 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "high",
+  "key_topics": [
+    "VitaCare Health",
+    "healthcare solutions",
+    "customer support",
+    "physical therapy",
+    "cardiac care",
+    "24/7 support",
+    "transition process",
+    "pricing"
+  ],
+  "objections_raised": [
+    "concerns about transition process from current provider",
+    "questions about cost and pricing comparison"
+  ],
+  "outcome": "follow-up meeting scheduled",
+  "summary": "The customer expressed frustration with their current healthcare provider's poor responsiveness and limited services. Jessica from VitaCare Health addressed their needs for physical therapy and cardiac care, highlighting 24/7 support and smooth transition assistance. The call ended positively with a follow-up meeting scheduled for Thursday to discuss specifics and pricing.",
+  "source_file": "vitacare-health__3_transcript.txt"
+}

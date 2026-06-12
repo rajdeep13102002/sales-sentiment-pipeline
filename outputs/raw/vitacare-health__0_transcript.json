@@ -1,0 +1,22 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "high",
+  "key_topics": [
+    "VitaCare Integrated System",
+    "patient management system",
+    "healthcare platforms",
+    "system compatibility",
+    "customer support",
+    "implementation",
+    "training"
+  ],
+  "objections_raised": [
+    "cost concerns",
+    "implementation time and downtime",
+    "compatibility with existing systems",
+    "quality of customer support after implementation"
+  ],
+  "outcome": "demo scheduled",
+  "summary": "The customer expressed strong interest in VitaCare's integrated healthcare system to solve their patient management inefficiencies. Despite initial concerns about cost, implementation time, and compatibility, the sales rep successfully addressed each objection and the customer agreed to schedule a demo for next Wednesday.",
+  "source_file": "vitacare-health__0_transcript.txt"
+}

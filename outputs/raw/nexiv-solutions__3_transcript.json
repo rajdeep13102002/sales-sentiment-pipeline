@@ -1,0 +1,18 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "medium",
+  "key_topics": [
+    "Nexiv Solutions software development tools",
+    "project management and tracking system",
+    "software integration",
+    "pricing and payment plans"
+  ],
+  "objections_raised": [
+    "budget constraints and costs of switching systems",
+    "concerns about integration with existing software",
+    "satisfaction with current setup"
+  ],
+  "outcome": "demo scheduled",
+  "summary": "Jane from IT was initially satisfied with current tools but acknowledged time management issues and project delays. Mark successfully addressed her budget and integration concerns and scheduled a demo for Thursday at 2 PM to showcase Nexiv Solutions' project management capabilities.",
+  "source_file": "nexiv-solutions__3_transcript.txt"
+}

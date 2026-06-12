@@ -1,0 +1,20 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "high",
+  "key_topics": [
+    "VitaCare Health healthcare plans",
+    "family healthcare coverage",
+    "therapy coverage",
+    "customer service",
+    "plan affordability",
+    "budget considerations"
+  ],
+  "objections_raised": [
+    "concerns about cost and affordability",
+    "past negative experience with current provider's coverage limitations",
+    "poor customer service with current provider"
+  ],
+  "outcome": "likely to purchase",
+  "summary": "Jane is actively seeking a new healthcare plan for her family due to coverage gaps and poor service with her current provider. She showed strong interest in VitaCare's offerings and agreed to review plan options and schedule a follow-up call, indicating high likelihood of conversion.",
+  "source_file": "vitacare-health__2_transcript.txt"
+}

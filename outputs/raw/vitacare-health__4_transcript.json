@@ -1,0 +1,22 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "high",
+  "key_topics": [
+    "VitaCare Pulse patient management system",
+    "staff training",
+    "technical support",
+    "data security",
+    "HIPAA compliance",
+    "pricing packages",
+    "product demo"
+  ],
+  "objections_raised": [
+    "concerns about difficult system transitions and staff training based on past experience",
+    "worries about technical issues during implementation",
+    "data security concerns for sensitive patient information",
+    "budget constraints as a smaller clinic"
+  ],
+  "outcome": "likely to purchase",
+  "summary": "Monica from a clinic showed strong interest in VitaCare's patient management system to solve their operational inefficiencies. Despite raising valid concerns about implementation challenges, security, and budget, she was satisfied with Emily's responses and agreed to receive a proposal and demo. The call ended positively with clear next steps established.",
+  "source_file": "vitacare-health__4_transcript.txt"
+}

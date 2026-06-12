@@ -1,0 +1,19 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "medium",
+  "key_topics": [
+    "summer dresses",
+    "sizing concerns",
+    "virtual stylist service",
+    "return policy",
+    "shipping"
+  ],
+  "objections_raised": [
+    "uncertainty about sizing accuracy",
+    "concerns about return policy",
+    "worries about slow shipping"
+  ],
+  "outcome": "needs follow-up",
+  "summary": "Lisa called with sizing concerns about summer dresses and expressed hesitation about online shopping due to past experiences with sizing, returns, and shipping. Alex successfully addressed her concerns and scheduled a virtual stylist consultation for the next day.",
+  "source_file": "modamart__6_transcript.txt"
+}

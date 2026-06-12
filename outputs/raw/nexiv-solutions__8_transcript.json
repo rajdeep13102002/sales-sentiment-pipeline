@@ -1,0 +1,20 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "high",
+  "key_topics": [
+    "Nexiv Solutions unified platform",
+    "IT infrastructure integration",
+    "cloud storage",
+    "project management",
+    "customer support tools",
+    "automation",
+    "implementation and onboarding"
+  ],
+  "objections_raised": [
+    "concerned about cost and current tool investments",
+    "worried about complicated setup process and team bandwidth"
+  ],
+  "outcome": "needs follow-up",
+  "summary": "Sam expressed genuine interest in Nexiv Solutions' unified platform to address their company's IT integration challenges and reduce downtime. While concerned about costs and implementation complexity, the sales rep effectively addressed these objections and Sam agreed to review detailed materials and schedule a follow-up call for next Tuesday.",
+  "source_file": "nexiv-solutions__8_transcript.txt"
+}

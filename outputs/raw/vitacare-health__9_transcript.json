@@ -1,0 +1,21 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "high",
+  "key_topics": [
+    "healthcare solutions",
+    "healthcare costs",
+    "employee coverage",
+    "premium costs",
+    "specialist access",
+    "transparent pricing",
+    "wellness programs",
+    "transition support"
+  ],
+  "objections_raised": [
+    "concern about hidden costs or catches",
+    "worry about transition period smoothness"
+  ],
+  "outcome": "likely to purchase",
+  "summary": "The customer expressed significant interest in VitaCare Health's healthcare solutions to address rising costs and access issues. Despite some initial concerns about hidden costs and transition difficulties, the sales rep addressed these objections effectively. The call ended with a scheduled follow-up consultation meeting for next Tuesday.",
+  "source_file": "vitacare-health__9_transcript.txt"
+}

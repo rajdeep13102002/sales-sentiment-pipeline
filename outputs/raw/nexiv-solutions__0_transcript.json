@@ -1,0 +1,17 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "medium",
+  "key_topics": [
+    "unified platform",
+    "data integration",
+    "customer data management",
+    "system synchronization"
+  ],
+  "objections_raised": [
+    "concerned about implementation process and downtime",
+    "tight budget constraints"
+  ],
+  "outcome": "needs follow-up",
+  "summary": "The customer expressed genuine interest in Nexiv Solutions' unified platform to solve their data synchronization issues, which are currently consuming several hours weekly. While they raised concerns about implementation downtime and budget constraints, they agreed to receive a proposal and scheduled a follow-up call for Thursday afternoon to continue the discussion.",
+  "source_file": "nexiv-solutions__0_transcript.txt"
+}

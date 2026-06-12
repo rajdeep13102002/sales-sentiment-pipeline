@@ -1,0 +1,19 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "high",
+  "key_topics": [
+    "medication management",
+    "telehealth services",
+    "personalized care plans",
+    "medication reminders",
+    "virtual appointments"
+  ],
+  "objections_raised": [
+    "skeptical about relying on digital system for notifications",
+    "concern about not receiving notifications",
+    "questioning how telehealth service differs from competitors"
+  ],
+  "outcome": "likely to purchase",
+  "summary": "Janet expressed strong interest in VitaCare Health's medication management and telehealth services to help with her chronic conditions. Despite some initial concerns about digital reliability, she was reassured by the backup systems and agreed to a follow-up demonstration call on Friday afternoon.",
+  "source_file": "vitacare-health__7_transcript.txt"
+}

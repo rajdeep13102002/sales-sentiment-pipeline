@@ -1,0 +1,21 @@
+{
+  "overall_sentiment": "positive",
+  "customer_interest_level": "medium",
+  "key_topics": [
+    "casual clothes",
+    "jeans",
+    "tops",
+    "formal outfits",
+    "High-Waist Slim Jeans",
+    "classic blouses",
+    "sizing",
+    "budget constraints"
+  ],
+  "objections_raised": [
+    "concerns about quality and durability",
+    "uncertainty about fit when shopping online"
+  ],
+  "outcome": "needs follow-up",
+  "summary": "Customer is interested in updating their wardrobe with both casual and formal pieces within a $300 budget. Sales rep addressed concerns about quality and fit by explaining return policies and guarantees, and will follow up with product recommendations via email.",
+  "source_file": "modamart__7_transcript.txt"
+}
